@@ -1,0 +1,33 @@
+/* employee-list.css */
+.employee-list {
+    margin: 20px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .employee-list h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .employee-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .employee-list li {
+    margin-bottom: 8px;
+  }
+  
+  .employee-list a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  .employee-list a:hover {
+    text-decoration: underline;
+  }
+  
